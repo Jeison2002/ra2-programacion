@@ -1,0 +1,48 @@
+
+body{
+    margin: 0%;
+    padding: 0;
+    background-color: red;
+    color: white;
+}
+.container-fluid{
+    background-color: #000000;
+    margin-top: -1%;
+}
+#navbarSupportedContent > ul > li > a{
+    color: white;
+}
+#carouselExample > img{
+    height: 50px;
+    width: 50px;
+}
+section{
+    display: flex;
+    width: 25%;
+    height: 20%;
+    margin-top: -1%;
+}
+section img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .5s ease;
+}
+section img:hover{
+    cursor: crosshair;
+    width: 300px;
+    opacity: 1;
+    filter: contrast(120%);
+}
+.navbar-brand{
+    color: white;
+}
+.container > img{
+    width: 900px;
+    height: 500px;
+}
+
+
+
+
