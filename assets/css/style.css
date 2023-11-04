@@ -2,7 +2,7 @@
 body{
     margin: 0%;
     padding: 0;
-    background-color: red;
+    background-image: url("https://cdn.pixabay.com/photo/2015/10/18/20/17/texture-995166_1280.jpg");
     color: white;
 }
 .container-fluid{
@@ -15,6 +15,11 @@ body{
 #carouselExample > img{
     height: 50px;
     width: 50px;
+}
+.carousel{
+    margin-top: -1%;
+}
+.container{
 }
 section{
     display: flex;
@@ -41,6 +46,61 @@ section img:hover{
 .container > img{
     width: 900px;
     height: 500px;
+}
+nav{
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-acuarela-roja_1378-184.jpg?w=740&t=st=1698237608~exp=1698238208~hmac=8da5366239ea060826de8260311e0285bc52621045b05fadb191bb71cc5a589f");
+}
+.div1{
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-acuarela-roja_1378-184.jpg?w=740&t=st=1698237608~exp=1698238208~hmac=8da5366239ea060826de8260311e0285bc52621045b05fadb191bb71cc5a589f");
+    color: white;
+    font-family: "Comic Sans MS";
+}
+.icon-link{
+
+    margin-left: 45%;
+    color: white;
+    font-family: "Comic Sans MS";
+    text-shadow: 1px  0px 0px white,
+    0px  1px 0px white,
+    -1px  0px 0px white,
+    0px -1px 0px white;
+    padding: 3%;
+}
+.MEDIOS{
+    color: white;
+    width: 100%;
+    max-width: 235px;
+    transform: translate(35px,0px);
+
+}
+.MEDIOS > a{
+    display: inline-block;
+    min-height: 40px;
+    line-height: 100px;
+}
+.MEDIOS > strong{
+    display: block;
+    margin-bottom: 1px;
+}
+.footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.footer a {
+    color: #ff6f61;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.footer a:hover {
+    color: #ff9f80;
+}
+.redes {
+    margin-top: 20px;
+    font-size: 24px;
+    margin: 0 10px;
+    margin-bottom: 10px;
 }
 
 
