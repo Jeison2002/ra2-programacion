@@ -22,12 +22,6 @@ body{
 .container > p{
     font-size: 20px;
 }
-.descripcion > a > strong{
-    color: #000000;
-}
-.descripcion > a > p{
-    color: yellow;
-}
 .info > .aviso > a > h1{
     font-size: 15px;
 }
@@ -91,6 +85,20 @@ ul li{
     padding: 20px;
     text-align: center;
 }
+img{
+    max-width: 100%;
+    height: auto;
+}
+.video-container{
+    max-width: 100%;
+}
+@media (max-width: 767px) {
+    .video-container iframe {
+        width: 100%;
+        height: auto;
+    }
+}
+
 .footer a {
     color: #ff6f61;
     text-decoration: none;
