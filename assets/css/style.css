@@ -22,25 +22,21 @@ body{
 .container > p{
     font-size: 20px;
 }
-.container > p2{
-    font-size: 20px;
-}
-.container > p3{
-    font-size: 20px;
-}
-.container > p4{
-    font-size: 20px;
-}
-.container > p5{
-    font-size: 20px;
-}
 .descripcion > a > strong{
     color: #000000;
 }
 .descripcion > a > p{
     color: yellow;
 }
-
+.info > .aviso > a > h1{
+    font-size: 15px;
+}
+.info > .terminos > a > h1{
+    font-size: 15px;
+}
+.info > .PREFERENCIAS > a > h1{
+    font-size: 15px;
+}
 section{
     display: flex;
     width: 25%;
@@ -86,22 +82,7 @@ nav{
     0px -1px 0px white;
     padding: 3%;
 }
-.MEDIOS{
-    color: white;
-    width: 100%;
-    max-width: 235px;
-    transform: translate(35px,0px);
 
-}
-.MEDIOS > a{
-    display: inline-block;
-    min-height: 40px;
-    line-height: 100px;
-}
-.MEDIOS > strong{
-    display: block;
-    margin-bottom: 1px;
-}
 .footer {
     background-color: #000000;
     color: #fff;
@@ -117,10 +98,10 @@ nav{
     color: #ff9f80;
 }
 .redes {
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 24px;
     margin: 0 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 
