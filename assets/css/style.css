@@ -19,8 +19,28 @@ body{
 .carousel{
     margin-top: -1%;
 }
-.container{
+.container > p{
+    font-size: 20px;
 }
+.container > p2{
+    font-size: 20px;
+}
+.container > p3{
+    font-size: 20px;
+}
+.container > p4{
+    font-size: 20px;
+}
+.container > p5{
+    font-size: 20px;
+}
+.descripcion > a > strong{
+    color: #000000;
+}
+.descripcion > a > p{
+    color: yellow;
+}
+
 section{
     display: flex;
     width: 25%;
