@@ -107,6 +107,9 @@ img{
 .card{
     color: white;
 }
+.list-group-item{
+    color: white;
+}
 .footer a {
     color: #ff6f61;
     text-decoration: none;
