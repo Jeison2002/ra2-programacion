@@ -82,7 +82,9 @@ nav{
     0px -1px 0px white;
     padding: 3%;
 }
-
+ul li{
+    font-size: 20px;
+}
 .footer {
     background-color: #000000;
     color: #fff;
