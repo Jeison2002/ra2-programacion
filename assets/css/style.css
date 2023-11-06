@@ -2,7 +2,7 @@
 body{
     margin: 0%;
     padding: 0;
-    background-image: url("https://cdn.pixabay.com/photo/2015/10/18/20/17/texture-995166_1280.jpg");
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-rojo-grunge_1048-8960.jpg?w=1060&t=st=1699297948~exp=1699298548~hmac=e50f7cf4b67293959df4a2af9cd01ff16e7753faa0fd4dfa131142477cde28d6");
     color: white;
 }
 .container-fluid{
@@ -68,10 +68,10 @@ section img:hover{
     height: 500px;
 }
 nav{
-    background-image: url("https://img.freepik.com/vector-gratis/fondo-acuarela-roja_1378-184.jpg?w=740&t=st=1698237608~exp=1698238208~hmac=8da5366239ea060826de8260311e0285bc52621045b05fadb191bb71cc5a589f");
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-rojo-grunge_1048-8960.jpg?w=1060&t=st=1699297948~exp=1699298548~hmac=e50f7cf4b67293959df4a2af9cd01ff16e7753faa0fd4dfa131142477cde28d6");
 }
 .div1{
-    background-image: url("https://img.freepik.com/vector-gratis/fondo-acuarela-roja_1378-184.jpg?w=740&t=st=1698237608~exp=1698238208~hmac=8da5366239ea060826de8260311e0285bc52621045b05fadb191bb71cc5a589f");
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-rojo-grunge_1048-8960.jpg?w=1060&t=st=1699297948~exp=1699298548~hmac=e50f7cf4b67293959df4a2af9cd01ff16e7753faa0fd4dfa131142477cde28d6");
     color: white;
     font-family: "Comic Sans MS";
 }
