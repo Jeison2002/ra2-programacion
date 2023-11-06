@@ -98,7 +98,15 @@ img{
         height: auto;
     }
 }
-
+.list-group-item{
+    background-color: darkred;
+}
+.card-body{
+    background-color: #a52834;
+}
+.card{
+    color: white;
+}
 .footer a {
     color: #ff6f61;
     text-decoration: none;
