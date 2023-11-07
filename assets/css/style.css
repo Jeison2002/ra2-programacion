@@ -3,6 +3,10 @@ body{
     margin: 0%;
     padding: 0;
     background-image: url("https://img.freepik.com/foto-gratis/fondo-rojo-grunge_1048-8960.jpg?w=1060&t=st=1699297948~exp=1699298548~hmac=e50f7cf4b67293959df4a2af9cd01ff16e7753faa0fd4dfa131142477cde28d6");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     color: white;
 }
 .container-fluid{
@@ -59,9 +63,17 @@ section img:hover{
 }
 nav{
     background-image: url("https://img.freepik.com/foto-gratis/fondo-rojo-grunge_1048-8960.jpg?w=1060&t=st=1699297948~exp=1699298548~hmac=e50f7cf4b67293959df4a2af9cd01ff16e7753faa0fd4dfa131142477cde28d6");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 .div1{
     background-image: url("https://img.freepik.com/foto-gratis/fondo-rojo-grunge_1048-8960.jpg?w=1060&t=st=1699297948~exp=1699298548~hmac=e50f7cf4b67293959df4a2af9cd01ff16e7753faa0fd4dfa131142477cde28d6");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     color: white;
     font-family: "Comic Sans MS";
 }
