@@ -79,14 +79,16 @@ nav{
 }
 .icon-link{
 
-    margin-left: 45%;
-    color: white;
+    margin-left: 35%;
+    color: #000000;
     font-family: "Comic Sans MS";
     text-shadow: 1px  0px 0px white,
     0px  1px 0px white,
     -1px  0px 0px white,
     0px -1px 0px white;
     padding: 3%;
+    font-size: 30px;
+
 }
 ul li{
     font-size: 20px;
