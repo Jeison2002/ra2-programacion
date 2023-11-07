@@ -98,6 +98,9 @@ img{
         height: auto;
     }
 }
+.responsive{
+    width: 100%;
+}
 .list-group-item{
     background-color: darkred;
 }
